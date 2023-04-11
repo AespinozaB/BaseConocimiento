@@ -1,6 +1,4 @@
-# Qué es y cómo funciona el CAEC
-
-Conoce qué es la Cobertura Adicional para Enfermedades Catastróficas y qué tipos de atenciones te cubre.
+# [[Qué es y cómo funciona el CAEC]]
 
 ## ¿Qué es el CAEC?
 
@@ -45,5 +43,5 @@ Además, el CAEC cubre excepcionalmente las siguientes **atenciones ambulator
 -   Drogas citotóxicas aplicadas en ciclos de quimioterapia para el tratamiento del cáncer
 -   Los medicamentos definidos como coadyuvantes o biomoduladores que se usan antes, durante o después de los ciclos de quimioterapia que estén considerados en los programas del ministerio de salud
 
-## [[Preguntas Frecuentes]]
+## [[Preguntas Frecuentes CAEC]]
 

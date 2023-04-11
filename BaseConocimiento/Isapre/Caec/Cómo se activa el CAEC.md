@@ -1,6 +1,6 @@
 # Cómo se activa el CAEC
 
-## Puedes activar el CAEC tanto en casos de hospitalización programada como en urgencias
+## Puedes activar el [[Glosario]] tanto en casos de hospitalización programada como en urgencias
 
 La activación debe ser realizada por ti (afiliado titular) o un representante a través de cualquiera de las siguientes opciones:
 
