@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isapre/Caec/Preguntas Frecuentes CAEC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a9860fc55d4dfa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Isapre/Ges/Qué es y cómo funciona el GES.md",
+                "file": "Isapre/Ges Caec.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isapre/Ges/Qué es y cómo funciona el GES.md",
+                "file": "Isapre/Ges Caec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isapre/Ges/Qué es y cómo funciona el GES.md",
+                "file": "Isapre/Ges Caec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isapre/Ges/Qué es y cómo funciona el GES.md"
+                "file": "Isapre/Ges Caec.md"
               }
             }
           }
@@ -160,15 +147,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a9860fc55d4dfa9",
+  "active": "65eb589fa9db2cdb",
   "lastOpenFiles": [
-    "Isapre/Ges/Preguntas Frecuentes Ges.md",
-    "Isapre/Ges/Qué es y cómo funciona el GES.md",
-    "Isapre/Caec/Preguntas Frecuentes CAEC.md",
-    "Isapre/Caec/Qué es y cómo funciona el CAEC.md",
-    "Isapre/Ges Caec.md",
-    "Isapre/Caec/Dónde debes atenderte.md",
     "Isapre/Caec/Cómo se activa el CAEC.md",
+    "Isapre/Caec/Qué es y cómo funciona el CAEC.md",
+    "Isapre/Ges/Funcionamiento del GES en caso de hospitalización inmediata.md",
+    "Isapre/Ges/Qué es y cómo funciona el GES.md",
+    "Isapre/Caec/Dónde debes atenderte.md",
+    "Isapre/Caec/Preguntas Frecuentes CAEC.md",
+    "Isapre/Ges Caec.md",
+    "Isapre/Ges/Cómo se activa el GES.md",
+    "Isapre/Ges/Preguntas Frecuentes Ges.md",
     "Isapre/Glosario.md",
     "activación del CAEC.md",
     "CAEC.md",

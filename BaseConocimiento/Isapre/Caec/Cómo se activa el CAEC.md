@@ -11,7 +11,7 @@ La activación debe ser realizada por ti (afiliado titular) o un representante a
 
 ## Una vez que escojas el canal para realizar la activación, deberás:
 
- 1-  Completar y firmar el Formulario N°1 “**Solicitud de Incorporación a la Red Cerrada de Cobertura Adicional para Enfermedades Catastróficas**”.
+1-  Completar y firmar el Formulario N°1 “**Solicitud de Incorporación a la Red Cerrada de Cobertura Adicional para Enfermedades Catastróficas**”.
 
 2- Una vez solicitado y firmado el formulario anterior, nuestra Isapre tendrá 2 ó 3 días hábiles -dependiendo si estás hospitalizado o no- para designarte un prestador de nuestra Red CAEC donde deberás continuar atendiéndote.
 
